@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringSecurityDemoUsingCredsNJwtApplication {
+public class SpringSecurityDemoWithCredentialsApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringSecurityDemoUsingCredsNJwtApplication.class, args);
+		SpringApplication.run(SpringSecurityDemoWithCredentialsApplication.class, args);
 		System.out.println("Sai Ram...");
 	}
 
