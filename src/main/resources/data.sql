@@ -1,0 +1,3 @@
+insert into sec_user(id, user_name, password, user_role) values(1,'Prasanna','$2a$10$LNmkKjH3rKjzSEu6cigKsu2OBzCjh9rdDYiz/qDegC17UdFW9Wncu','ADMIN');
+insert into sec_user(id, user_name, password, user_role) values(2,'Padma','$2a$10$LNmkKjH3rKjzSEu6cigKsu2OBzCjh9rdDYiz/qDegC17UdFW9Wncu','USER');
+insert into sec_user(id, user_name, password, user_role) values(3,'Sarojini','$2a$10$LNmkKjH3rKjzSEu6cigKsu2OBzCjh9rdDYiz/qDegC17UdFW9Wncu','USER');
