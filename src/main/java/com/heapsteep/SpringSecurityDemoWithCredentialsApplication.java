@@ -8,7 +8,5 @@ public class SpringSecurityDemoWithCredentialsApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringSecurityDemoWithCredentialsApplication.class, args);
-		System.out.println("Sai Ram...");
 	}
-
 }
